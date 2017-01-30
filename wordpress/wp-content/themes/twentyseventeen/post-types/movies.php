@@ -44,7 +44,7 @@ function create_movies_taxonomies() {
         'update_item'       => __( 'Обновить категорю', 'textdomain' ),
         'add_new_item'      => __( 'Добвить категорю', 'textdomain' ),
         'new_item_name'     => __( 'Имя новой категории', 'textdomain' ),
-        'menu_name'         => __( 'Категория', 'textdomain' ),
+        'menu_name'         => __( 'Категории', 'textdomain' ),
     );
 
     $args = array(
