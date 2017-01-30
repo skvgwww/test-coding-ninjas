@@ -23,13 +23,13 @@
 define('DB_NAME', 'test_coding_ninjas');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'user');
 
 /** MySQL database password */
-define('DB_PASSWORD', '12vv90yy');
+define('DB_PASSWORD', 'pass');
 
 /** MySQL hostname */
-define('DB_HOST', '172.17.0.1');
+define('DB_HOST', 'host');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
