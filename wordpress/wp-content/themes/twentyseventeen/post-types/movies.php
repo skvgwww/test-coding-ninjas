@@ -20,7 +20,8 @@ function create_movies_post_type() {
         'menu_icon' => 'dashicons-video-alt',
         'menu_position' => 6,
         'rewrite' => array('slug' => 'movies'),
-        'supports' => array('title', 'excerpt', 'thumbnail')
+        //'supports' => array('title', 'excerpt', 'editor', 'thumbnail')
+        'supports' => array('title','editor','thumbnail','excerpt','page-attributes', )
     );
 
 
