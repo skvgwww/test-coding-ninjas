@@ -11,3 +11,4 @@ function myplugin_registration_save( $user_id ) {
         exit;
     }
 }
+
